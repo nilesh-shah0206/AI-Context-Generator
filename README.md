@@ -17,7 +17,6 @@ Our goal is to bridge the gap between general-purpose AI models and project-spec
 Prompts in this repo are organized into **high-level categories** based on what they help the AI accomplish:
 
 - **`/understanding-code`** – Prompt chains that help AI understand and document existing codebases
-- **`/writing-code`** – Prompt chains that assist with implementing new functionality based on external input (e.g. Jira tickets)
 
 Each subfolder contains one or more prompts or prompt chains, each with its own `README.md` explaining how to use it.
 
